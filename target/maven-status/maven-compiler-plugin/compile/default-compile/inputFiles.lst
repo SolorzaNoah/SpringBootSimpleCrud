@@ -1,0 +1,9 @@
+C:\Users\Obii\Desktop\SpringBootSimpleCrud\src\main\java\com\solorzanoah\simplecrud\exception\CategoryAlreadyExistsException.java
+C:\Users\Obii\Desktop\SpringBootSimpleCrud\src\main\java\com\solorzanoah\simplecrud\exception\ApiError.java
+C:\Users\Obii\Desktop\SpringBootSimpleCrud\src\main\java\com\solorzanoah\simplecrud\exception\ResourceNotFoundException.java
+C:\Users\Obii\Desktop\SpringBootSimpleCrud\src\main\java\com\solorzanoah\simplecrud\exception\GlobalExceptionHandler.java
+C:\Users\Obii\Desktop\SpringBootSimpleCrud\src\main\java\com\solorzanoah\simplecrud\repository\CategoryRepository.java
+C:\Users\Obii\Desktop\SpringBootSimpleCrud\src\main\java\com\solorzanoah\simplecrud\model\Category.java
+C:\Users\Obii\Desktop\SpringBootSimpleCrud\src\main\java\com\solorzanoah\simplecrud\exception\ResponseEntityBuilder.java
+C:\Users\Obii\Desktop\SpringBootSimpleCrud\src\main\java\com\solorzanoah\simplecrud\SimpleCrudApplication.java
+C:\Users\Obii\Desktop\SpringBootSimpleCrud\src\main\java\com\solorzanoah\simplecrud\controller\CategoryController.java
